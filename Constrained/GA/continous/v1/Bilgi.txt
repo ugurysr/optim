@@ -1,0 +1,3 @@
+Yazý tarihi: 26/11/2022
+objFun1,constrFun1: Prof Oðuzhan Hasançebi hocadan aldýðým Optimizasyon dersi defterimin sayfa 50'de yazan problem için hazýrlanan objective constrained fonksiyonlarý.
+objFun2,constrFun2:  2020, Rao, Engineering optimization, 5ed, Chapter 7.22.21: Design of a three-bar truss

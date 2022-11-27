@@ -1,0 +1,4 @@
+Yazý tarihi: 26/11/2022
+Genetic algorithm (Haupt ve Haupt hocalarýn kitabýndaki kod temel alýnarak)
+Independent design parametrelerinin continiuous (not discrete) olduðu durumlar için kullanýlýr.
+
